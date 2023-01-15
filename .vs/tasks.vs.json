@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Y_과거_단계별로_풀어보기",
+      "appliesTo": "algorithm_study/algorithm_study/SourceCode/02_BOJ/Y_과거_단계별로_풀어보기/",
+      "type": "launch"
+    }
+  ]
+}
